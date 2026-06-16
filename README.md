@@ -1,10 +1,14 @@
-# rkhunter-gui
+<div align="center">
+
+<a href="https://github.com/effjy/rkhunter-gui/"><img src="titles/rkhunter-gui-title.svg" height="52" alt="rkhunter GUI"></a>
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
 ![Toolkit](https://img.shields.io/badge/GUI-GTK%203-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20(X11%20%26%20Wayland)-lightgrey.svg)
 ![rkhunter](https://img.shields.io/badge/rkhunter-1.4.6-orange.svg)
+
+</div>
 
 A friendly **GTK3** front-end for [`rkhunter`](https://rkhunter.sourceforge.net/)
 (Rootkit Hunter) — runs `rkhunter --check` and shows the scan live, in a window,
