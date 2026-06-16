@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=rkhunter GUI
+GenericName=Rootkit Scanner
+Comment=Friendly GTK front-end for rkhunter with colored results
+Exec=rkhunter-gui
+Icon=rkhunter-gui
+Terminal=false
+Categories=System;Security;Utility;
+Keywords=rootkit;security;rkhunter;scan;malware;hunter;
+StartupNotify=true
